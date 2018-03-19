@@ -20,6 +20,9 @@ void main (void)
 		if (choice == 'O'|| choice == 'o')
 		{
 			printf("You have fallen into a vat of acid. :( "); 
+			printf("Wait....");
+			printf("As you flail your limbs around in desparation as you fall, one of your limbs get caught in a branch. \n");
+			printf("You open your eyes and see another door in the darkness.");
 			
 
 
