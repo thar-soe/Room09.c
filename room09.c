@@ -1,5 +1,6 @@
-nclude <stdlib.h>
+#include <stdlib.h>
 #include <stdio.h>
+#include <ctype.h>
 
 void main (void)
 {
@@ -19,10 +20,29 @@ void main (void)
 
 		if (choice == 'O'|| choice == 'o')
 		{
-			printf("You have fallen into a vat of acid. :( "); 
-			printf("Wait....");
+			printf("You have fallen into a vat of acid. :( \n"); 
+			printf("Wait....\n");
 			printf("As you flail your limbs around in desparation as you fall, one of your limbs get caught in a branch. \n");
-			printf("You open your eyes and see another door in the darkness.");
+			printf("You open your eyes and see another door in the darkness.\n");
+			scanf("%c", choice); 
+			if (tolower(choice) == 'o')
+			{
+
+				printf("You've found the stairway to heaven! \n");
+				printf("Type 'g' to go or type 'c' to continue falling \n");
+				if (tolower(choice) == 'g' )
+				{
+					printf("Oh wow, everything's shiny and it's so bright!!!! You forgot your sunglasses. \n");
+
+
+
+
+
+				}
+
+
+
+			}
 			
 
 
