@@ -40,6 +40,12 @@ void main (void)
 
 				}
 
+				else if (tolwoer(choice) == 'c')
+				{
+					printf("You keep falling to your doom. Maybe you'll grab another branch...\n");
+					printf("For now keep falling."); 
+				}
+
 
 
 			}
