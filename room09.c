@@ -40,7 +40,7 @@ void main (void)
 
 				}
 
-				else if (tolwoer(choice) == 'c')
+				else if (tolower(choice) == 'c')
 				{
 					printf("You keep falling to your doom. Maybe you'll grab another branch...\n");
 					printf("For now keep falling."); 
@@ -66,16 +66,4 @@ void main (void)
 
 
 }
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
--- INSERT --                                                  12,2          All
 
