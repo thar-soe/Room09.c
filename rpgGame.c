@@ -8,7 +8,7 @@
 //Joseph Moreno
 //Maik De Leon Lopez 3/21/18
 //Kevin Ramirez
-//Thar Soe 04/02/2018
+///Thar Soe 04/02/2018
 
 #include <stdio.h>
 #include <stdlib.h>
