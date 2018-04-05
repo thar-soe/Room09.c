@@ -1,16 +1,4 @@
-//Contributors
-//Garrett Poppe 3/19/18
-//Dylan Dickerson 3/21/18
-//Brian Baskovich 3/21/18
-//Diana Guevara-Colocho 3/21/2018
-//Mahir Eldaw 3/21/18
-//Salvador Rodriguez 3/21/2018
-//Joseph Moreno
-//Maik De Leon Lopez 3/21/18
-//Kevin Ramirez
-///Thar Soe 04/02/2018
-
-#include <stdio.h>
+nclude <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
